@@ -1,8 +1,16 @@
+# Terraform
 **/.terraform/*
 *.tfstate
 *.tfstate.*
 *.tfplan
+tfplan
+
+# AWS
 .aws/
+
+# Python
 __pycache__/
 *.pyc
+
+# VSCode
 .vscode/
